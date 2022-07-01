@@ -1,0 +1,3 @@
+OBS: Ter Cautela ao digitar os códigos.
+
+Link para download do GIT: https://git-scm.com/
